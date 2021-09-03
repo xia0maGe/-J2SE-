@@ -584,7 +584,7 @@ timeout用来测试一个方法能不能在规定的时间内完成。
 
 　　那是因为IDEA在Debug时默认阻塞级别是ALL，会阻塞其它线程，只有在当前调试线程走完时才会走其它线程。可以在View Breakpoints里选择Thread，然后点击Make Default设置为默认选项。
 
-![1630683602761](assets/多线程debug.png)
+![多线程debug](assets/多线程debug.png)
 
  切换线程，在Frames的下拉列表里，可以切换当前的线程，如下我这里有两个Debug的线程，切换另外一个则进入另一个Debug的线程。 
 
