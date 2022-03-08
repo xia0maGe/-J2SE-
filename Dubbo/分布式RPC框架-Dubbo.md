@@ -48,7 +48,7 @@
 
 ​		RFC(Request For Comments)是由互联网工程任务组(IETF)发布的文件集.文件集中每个文件都有自己唯一编号,例如:rfc1831.目前RFC文件由互联网协会(Internet Society,ISOC)赞助发型.
 
- 		RPC就收集到rfc1831中.可以通过链接查看:https://datatracker.ietf.org/doc/rfc1831/
+​		RPC就收集到rfc1831中.可以通过链接查看:https://datatracker.ietf.org/doc/rfc1831/
 
 ### RPC
 
