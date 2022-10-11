@@ -1451,6 +1451,12 @@ public class PaymentController {
 
 ## 支持的协议
 
+### http协议
+
+- 基于http表单的远程调用协议,短连接,json序列化
+- 对传输数据包不限,不支持传文件
+- 适用于同时给应用程序和浏览器JS使用的服务
+
 ### Dubbo协议
 
 优点:
